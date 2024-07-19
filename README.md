@@ -15,4 +15,5 @@ A simple weather app that displays the current weather and temperature for a giv
 *CSS
 *JavaScript
 *OpenWeatherMap API
+
 Author: Kwadwo Tuffuor Quayson
